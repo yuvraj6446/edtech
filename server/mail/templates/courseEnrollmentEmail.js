@@ -67,7 +67,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
     
     <body>
         <div class="container">
-            <a href="https://edtech-alpha.vercel.app/"><img class="logo" src="https://i.ibb.co/7Xyj3PC/logo.png"
+            <a href="https://edtech-alpha.vercel.app/"><img class="logo" src="https://edtechhe.com/wp-content/uploads/2018/06/cropped-edtech_he_logo_blog-2-1024x312.png"
                     alt="edtech logo"></a>
             <div class="message">Course Registration Confirmation</div>
             <div class="body">
