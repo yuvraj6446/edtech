@@ -178,7 +178,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made with yuvrajsingh</div>
+          <div className="text-center">Made by Niharika Sharma </div>
         </div>
       </div>
     </div>
